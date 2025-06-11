@@ -56,8 +56,9 @@ npx hardhat test test/composability/spl-token.test.js --network neondevnet
 
 ## Deployed Contracts and Key Transactions
 
+
 - **Deployer Address:** [`0xd12A585952dea511B17299D10B5059Cbd75fE64A`](https://neon-devnet.blockscout.com/address/0xd12A585952dea511B17299D10B5059Cbd75fE64A)
-- **CallSPLTokenProgram Contract:** [`0x45FeA2119b88351099e12b2eD8170DDAe3413C84`](https://neon-devnet.blockscout.com/address/0x45FeA2119b88351099e12b2eD8170DDAe3413C84)
-- **CallSystemProgram Contract:** [`0x75cb45597CA8986404dB62D64eb996D100b47f21`](https://neon-devnet.blockscout.com/address/0x75cb45597CA8986404dB62D64eb996D100b47f21)
+- **CallSPLTokenProgram Contract:** [`0x67E575CF4839F00a6E0d9B316C1C8c37df7ed7eE`](https://neon-devnet.blockscout.com/address/0x67E575CF4839F00a6E0d9B316C1C8c37df7ed7eE)
+- **CallSystemProgram Contract:** [`0x45FeA2119b88351099e12b2eD8170DDAe3413C84`](https://neon-devnet.blockscout.com/address/0x45FeA2119b88351099e12b2eD8170DDAe3413C84)
 - **CallAssociatedTokenProgram Contract:** [`0xF95c9225Fad9a0BE7ECf9B2521C8e2e047b0096C`](https://neon-devnet.blockscout.com/address/0xF95c9225Fad9a0BE7ECf9B2521C8e2e047b0096C)
 
